@@ -1,1 +1,1 @@
-puts "Hello santhi"
+puts "Hello santh"
